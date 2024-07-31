@@ -1,2 +1,8 @@
 # Computer-Vision-Cell-Labeling
-A project that labels each cell in an image, calculates cells area and brightness level and output it in an excel file 
+
+
+This MATLAB project processes an image of cells, identifies connected objects using a Depth-First Search (DFS) algorithm, calculates the area of each cell, and computes the average brightness level of the cells. The results are outputted to an Excel file.
+
+
+## Input Example
+![Input Cells](Cells.png)
