@@ -1,5 +1,5 @@
 clc, clear , close all;
 
-I = imread("Cells.tif");
+I = imread("Cells.png");
 
 createExcelWithObjectInfo(I, 'output.xlsx');
